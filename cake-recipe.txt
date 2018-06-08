@@ -8,6 +8,8 @@ Ingredients:
  - 2 eggs
  - 1 cup milk
  - 1/2 cup canols oil
+ - 3/4 cup vegetable oil
+>>>>>>> a92dc44255cc4d20d8a4ba5eff7c658867c09707
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
